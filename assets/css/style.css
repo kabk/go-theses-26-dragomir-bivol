@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: 'Your Font Name';
-    src: url('/assets/fonts/yourfontname/IBMPlexMono-Regular.ttf');
+    src: url('../fonts/yourfontname/IBMPlexMono-Regular.ttf');
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -28,7 +28,7 @@
 
 @font-face {
   font-family: 'heading-hover';
-  src: url('/assets/fonts/yourfontname/HelveticaNeue.ttc');
+  src: url('../fonts/yourfontname/HelveticaNeue.ttc');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -36,7 +36,7 @@
 
 @font-face {
   font-family: 'heading-base';
-  src: url('/assets/fonts/yourfontname/Zhivov-Regular-Web.ttf.subset.woff');
+  src: url('../fonts/yourfontname/Zhivov-Regular-Web.ttf.subset.woff');
   font-weight: normal;
   font-style: normal;
   font-display: block;

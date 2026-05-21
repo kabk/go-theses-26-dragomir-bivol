@@ -141,7 +141,7 @@ header {
   display: grid;
   place-items: center;
   padding: clamp(1.25rem, 3vw, 2.5rem);
-  background-color: rgb(29, 29, 29);
+  background-color: rgb(0, 0, 0);
 }
 
 #section0 .section-zero-surface::before {
